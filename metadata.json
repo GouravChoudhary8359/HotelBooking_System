@@ -1,0 +1,6 @@
+{
+  "name": "HotelPro - Hotel Booking & Management Solution",
+  "description": "Comprehensive hotel booking and management solution with real-time reservation engine, guest portal, admin dashboard, housekeeping workflow, and mentor demo presentation center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
